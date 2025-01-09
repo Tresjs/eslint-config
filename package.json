@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@antfu/eslint-config": "~3.6.0",
-    "eslint-plugin-format": "^0.1.2"
+    "eslint-plugin-format": "^1.0.0"
   },
   "devDependencies": {
     "@release-it/conventional-changelog": "^8.0.2",
